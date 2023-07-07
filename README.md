@@ -1,8 +1,9 @@
 # Capputeeno
 
-Welcome! This respostitory contains my solution for [Rocketseat´s](https://www.rocketseat.com.br/ignite?utm_source=influencer&utm_medium=publipost&utm_campaign=lead&utm_term=ignite&utm_content=lead-ignite-publipost-organic-cupom_KIPPERDEV-none-none-none-none-redes_kipperdev&referral=kipperdev&coupon=KIPPERDEV@IGNITE) open source [Frontend Challenge](https://github.com/Rocketseat/frontend-challenge).
 
-![Prototype](./.github/prototype.png)
+
+![Prototype](imagem1.png)
+![Prototype](imagem2.png)
 
 # 🧠 About
 
@@ -29,12 +30,12 @@ The challenge is to implement an e-commerce for the sale of mugs and t-shirts th
 
 1. Clone this repo
 ```bash
-git clone https://github.com/Fernanda-Kipper/challenge-frontend.git
+git clone https://github.com/VieiraMeloRoberta/ecommerce-nextjs.git
 ```
 
 2. Go to the project folder
 ```bash
-cd challenge-frontend
+cd ecommerce-nextjs
 cd capputeeno
 ```
 
@@ -54,7 +55,7 @@ npm run dev
 2. Go to the API folder
 
 ```bash
-cd challenge-frontend
+cd ecommerce-nextjs
 cd api
 ```
 
